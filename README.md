@@ -9,14 +9,10 @@
 
 <h5 align="center">Nordic Lights</h5>
   <p align="center">
-    A web app for exploring, watching movies, tv shows and anime built with Remix and NextUI.
+    An online ticketing system.
     <br />
   </p>
 </div>
-
-> **Warning**
-> This app is a work in progress.
-> <br/>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -30,32 +26,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Khanhtran47/remix-movie">
-    <img src="public/images/screenshot.png" alt="screenshot">
-  </a>
+ <img src="public/images/screenshot.jpg" alt="screenshot"><br/>
+  <img src="public/images/screenshot_1.jpg" alt="screenshot"><br/>
+   <img src="public/images/screenshot_2.jpg" alt="screenshot"><br/>
+    <img src="public/images/screenshot_3.jpg" alt="screenshot"><br/>
 </div>
 <br/>
 
-<!-- TECH STACK -->
-
-## Tech Stack
-
-- **Remix** with Typescript
-- **NextUI** for pre-made components and themes
-- Styled using **TailwindCSS** and **Stitches**
-- **SwiperJS** for touch slider
-- Internationalization using **i18n**
-- Authentication, database using **Supabase**
-- UI Components built using **Radix UI**
-- Animation using **Framer Motion**
-- State management using **Zustand**
-- Custom media player using **Artplayer**
-- Cache using **LRU Cache**
-- Color manipulation and conversion using **Tinycolor**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- DEVELOPMENT -->
 
 ## Development
 
